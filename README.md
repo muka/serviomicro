@@ -54,7 +54,7 @@ Soid: [service object soid]
 Stream: [service object stream]
 Content-Type: application/json
 
-{ "channel1": "channel1Value", "channel2" }
+{ "channel1": "channel1Value", "channel2": 123 }
 ```
 
 Extras: 
