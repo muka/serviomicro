@@ -1,0 +1,20 @@
+{
+    "name": "serviomicro",
+    "private": false,
+    "description": "Servioticy middleware for microcontroller",
+    "version": "1.0.0",
+    "homepage": "http://servioticy.com",
+    "author": "frame",
+    "license": "MIT",
+    "main": "index.js",
+    "keywords": [],
+    "dependencies": {
+	"compose.io": "compose-eu/Appcelerator",
+        "express": "4.*",
+	"body-parser": "*"
+    },
+    "devDependencies": {
+        "restler": "*"
+    }
+}
+
