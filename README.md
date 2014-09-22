@@ -57,6 +57,10 @@ Content-Type: application/json
 { "channel1": "channel1Value", "channel2" }
 ```
 
+Extras: 
+
+- `GET /now` will return the current timestamp on the machine
+
 #License
 
 MIT
