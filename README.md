@@ -56,3 +56,7 @@ Content-Type: application/json
 
 { "channel1": "channel1Value", "channel2" }
 ```
+
+#License
+
+MIT
